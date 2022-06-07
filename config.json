@@ -1,0 +1,23 @@
+{
+  "lastUpdate": "2022-06-07T16:00:00Z",
+  "agents": [
+    {
+      "name": "Ati",
+      "title": "Agent",
+      "uuid": "2e545387-0f91-48e8-a320-f80e6212e5a2",
+      "alwaysShow": true
+    },
+    {
+      "name": "Fen",
+      "title": "Agent",
+      "uuid": "997dbafd-303f-490d-b11f-d370f5d046d1",
+      "alwaysShow": true
+    },
+    {
+      "name": "Britney",
+      "title": "Agent",
+      "uuid": "9213ee0e-ce96-45bb-a0ff-dc34150a2eaa",
+      "alwaysShow": false
+    }
+  ]
+}
