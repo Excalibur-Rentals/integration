@@ -5,18 +5,21 @@
       "name": "Ati",
       "title": "Agent",
       "uuid": "2e545387-0f91-48e8-a320-f80e6212e5a2",
+      "image": "2746ca9f-ff74-2c18-066b-e743a8f18b7b",
       "alwaysShow": true
     },
     {
       "name": "Fen",
       "title": "Agent",
       "uuid": "997dbafd-303f-490d-b11f-d370f5d046d1",
+      "image": "4d58b711-8a61-2d87-c288-2fcb91eaf548"
       "alwaysShow": true
     },
     {
       "name": "Britney",
       "title": "Agent",
       "uuid": "9213ee0e-ce96-45bb-a0ff-dc34150a2eaa",
+      "image": "e2cec4b2-2def-f1bb-09c1-bfe829495989",
       "alwaysShow": false
     }
   ]
