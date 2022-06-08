@@ -4,10 +4,11 @@
     <script type = "text/javascript">
       const url = new URL(window.location.href);
       const id = url.searchParams.get("id");
-      window.location = `secondlife:///app/agent/${id}/im`;
+      const type = url.searchParams.get("type");
+      window.location = `secondlife:///app/agent/${id}/${type}`;
     </script> 
   </head>
   <body>
-    <p>Should be redirecting</p>
+    <p>Should be redirecting...</p>
   </body>
 </html>
